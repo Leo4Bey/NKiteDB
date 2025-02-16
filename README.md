@@ -15,6 +15,7 @@ NKiteDB relies only on Python's built-in `json` and `os` modules. No additional 
 
 ```bash
 git clone https://github.com/Leo4Bey/NKiteDB/
+pip install NKiteDB
 ```
 
 
@@ -33,6 +34,7 @@ NKiteDB, bağımlılık olarak yalnızca Python'un yerleşik `json` ve `os` mod�
 
 ```bash
 git clone https://github.com/Leo4Bey/NKiteDB/
+pip install NKiteDB
 ```
 
 
